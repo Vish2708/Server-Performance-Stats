@@ -20,4 +20,4 @@ This Bash script provides a quick overview of system resource usage and health f
 
 ## 📁 Files
 
-- `system_stats.sh`: The main script to collect and display system health information. 
+- `server_stats.sh`: The main script to collect and display system health information. 
